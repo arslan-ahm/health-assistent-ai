@@ -1,0 +1,9 @@
+# Install necessary libraries
+gradio
+requests
+pytesseract
+pillow
+speechrecognition
+gtts
+langdetect
+tesseract-ocr
